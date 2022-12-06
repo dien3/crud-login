@@ -8,7 +8,7 @@ import { AkunPageRoutingModule } from './akun-routing.module';
 
 import { AkunPage } from './akun.page';
 
-@NgModule({
+@NgModule({ 
   imports: [
     CommonModule,
     FormsModule,
